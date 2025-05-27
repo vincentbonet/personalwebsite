@@ -6,7 +6,7 @@ baseurl: ""
 url: "" 
 github_username:  vincentbonet
 permalink: pretty
-theme: minima
+theme: none
 plugins:
   - jekyll-feed
 
