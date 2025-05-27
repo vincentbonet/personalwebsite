@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Contact Me
+title: Contact
 permalink: /contact/
 ---
 
-# Contact Me
+# Contact
 
+- Email: `you@example.com`
+- [LinkedIn](#)
+- [GitHub](#)

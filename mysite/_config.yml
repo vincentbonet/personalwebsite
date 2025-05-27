@@ -4,7 +4,7 @@ email: robonet18@gmail.com
 description: >-
 baseurl: ""
 url: "" 
-github_username:  vincentbonet
+github_username: vincentbonet
 permalink: pretty
 plugins:
   - jekyll-feed
