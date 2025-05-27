@@ -6,6 +6,6 @@ permalink: /contact/
 
 # Contact
 
-- Email: `you@example.com`
+- Email: `robonet18@gmail.com`
 - [LinkedIn](#)
-- [GitHub](#)
+- [GitHub](https://github.com/vincentbonet)
