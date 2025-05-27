@@ -10,4 +10,4 @@ I am a computer science student in my senior year, with one more semester to go 
 
 # About this website 
 
-I built this website using [Jekyll](https://jekyllrb.com/), a static site generator written in Ruby. The reason I chose Jekyll was how simple and straightforward it is to input necessary information, and how easy it is for anyone to access what they need to access.
+I built this website using [Jekyll](https://jekyllrb.com/), a static site generator written in Ruby. The reason I chose Jekyll was how simple and straightforward it is to input necessary information, and how easy it is for anyone to access what they need to

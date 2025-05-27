@@ -46,6 +46,6 @@ A computational engine built to calculate **Lucas Numbers**
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-Personal website created using Jekyll
+This website
 
 ---
