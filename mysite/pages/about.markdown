@@ -11,3 +11,9 @@ I am a computer science student in my senior year, with one more semester to go 
 # About this website 
 
 I built this website using [Jekyll](https://jekyllrb.com/), a static site generator written in Ruby. The reason I chose Jekyll was how simple and straightforward it is to input necessary information, and how easy it is for anyone to access what they need to
+
+# Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vincentbonet&show_icons=true&theme=dark&hide_border=true" alt="Vincent's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbonet&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />

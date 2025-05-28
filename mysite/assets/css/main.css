@@ -79,3 +79,50 @@ h1, h2, h3 {
   color: var(--accent);
 }
 
+.contact-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.03);
+  border: 1px solid #333;
+  border-radius: 8px;
+  backdrop-filter: blur(3px);
+}
+
+.contact-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
+
+.contact-container input,
+.contact-container textarea {
+  width: 100%;
+  max-width: 500px;
+  padding: 0.5rem;
+  background-color: #1a1a1a;
+  color: #fff;
+  border: 1px solid #444;
+  border-radius: 4px;
+}
+
+.contact-container button {
+  padding: 0.6rem 1.2rem;
+  background-color: #222;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.contact-container button:hover {
+  background-color: #444;
+}
+
+.contact-links {
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+}
