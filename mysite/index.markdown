@@ -19,9 +19,10 @@ _Senior CS Student • Developer_
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nerkled&show_icons=true&theme=dark&hide_border=true" alt="Robert's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=vincentbonet&show_icons=true&theme=dark&hide_border=true" alt="Vincent's Github Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerkled&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbonet&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
 
 ---
 

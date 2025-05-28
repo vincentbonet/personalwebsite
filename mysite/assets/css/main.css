@@ -22,7 +22,7 @@ body {
   padding: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Fira Code', monospace;
   line-height: 1.6;
   scroll-behavior: smooth;
   transition: background 0.3s, color 0.3s;
@@ -79,19 +79,3 @@ h1, h2, h3 {
   color: var(--accent);
 }
 
-/* Light/Dark mode toggle button */
-.theme-toggle {
-  background: none;
-  border: 1px solid var(--border);
-  color: var(--accent);
-  border-radius: 1.5rem;
-  padding: 0.3rem 1rem;
-  cursor: pointer;
-  margin-left: 1rem;
-  font-size: 1rem;
-  transition: background 0.2s, color 0.2s;
-}
-.theme-toggle:hover {
-  background: var(--accent);
-  color: var(--bg);
-}
