@@ -8,11 +8,6 @@ permalink: /now/
 
 Last updated: {{ site.time | date: "%B %Y" }}
 
-Coding:
-
-Reading: The Rape of Nanking by Iris Chang
-
-Listening to: As much as I can 
-
-
-
+## Creating 
+- This website 
+- Rust CLI tool to organize my files and notes. 

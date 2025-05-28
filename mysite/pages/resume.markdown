@@ -23,7 +23,7 @@ Motivated and creative computer science student with a strong foundation in soft
 
 - **Languages:** Rust, PHP, Python, JavaScript, SQL, HTML/CSS  
 - **Frameworks:** Vue, Flask, Tailwind, React
-- **Tools:** Git, GitHub, Neovim, Linux (Arch + KDE), Jekyll,   
+- **Tools:** Git, GitHub, Neovim, Linux (Arch + KDE), Jekyll 
 - **Other:** REST APIs, CLI tools, privacy tools, responsive design
 
 ---

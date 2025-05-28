@@ -1,4 +1,5 @@
-
+---
+---
 :root {
   --bg: #121212;
   --text: #e0e0e0;
@@ -71,7 +72,7 @@ a:hover {
 }
 
 h1, h2, h3 {
-  color: var(--heading);
+  color: var(--heading); 
 }
 
 .fa-code {
@@ -125,4 +126,9 @@ h1, h2, h3 {
 .contact-links {
   margin-top: 1.5rem;
   font-size: 1.1rem;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
 }
