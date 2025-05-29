@@ -16,9 +16,6 @@ Motivated and creative computer science student with a strong foundation in soft
 
 ---
 
-## Experience
----
-
 ## Technical Skills
 
 - **Languages:** Rust, PHP, Python, JavaScript, SQL, HTML/CSS  
@@ -47,11 +44,6 @@ _Web App calculator for Lucas Numbers in Java._
 
 **[Personal Website](https://github.com/vincentbonet/personalwebsite)**  
 _Jekyll-powered portfolio website_
-
----
-
-## 🏆 Awards & Activities
-
 ---
 
 _Last updated: {{ site.time | date: "%B %Y" }}_

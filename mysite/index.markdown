@@ -7,6 +7,8 @@ permalink: /
 # Hi, I'm Robert Bonet  
 _Senior CS Student • Developer_
 
+Here are some of the projects I either created or have contributed to in a larger group:
+
 ### [Legal KB](https://github.com/mudasirkk/ReadBooks25)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
