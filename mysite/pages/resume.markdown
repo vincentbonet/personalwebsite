@@ -6,7 +6,7 @@ permalink: /resume/
 
 # Robert Bonet  
 _Senior Computer Science Student_  
-[you@example.com](mailto:you@example.com) • [github.com/vincentbonet](https://github.com/vincentboonet) • [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/vincentboonet) • [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
