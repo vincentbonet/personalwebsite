@@ -4,29 +4,41 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
+# Contact Me
 
-<form action="https://formspree.io/f/mwkgyyqg" method="POST" autocomplete="off" class="contact-form">
-  <div class="form-group">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" required>
-  </div>
-
-  <div class="form-group">
-    <label for="email">Email</label>
-    <input type="email" id="email" name="email" required>
-  </div>
-
-  <div class="form-group">
-    <label for="message">Message</label>
-    <textarea id="message" name="message" rows="5" required></textarea>
-  </div>
-
-  <input type="text" name="_gotcha" style="display:none">
-
+<form id="contact-form">
+  <input type="text" name="name" placeholder="Your Name" required />
+  <input type="email" name="email" placeholder="Your Email" required />
+  <textarea name="message" placeholder="Your Message" required></textarea>
   <button type="submit">Send</button>
+  <p id="status-message"></p>
 </form>
 
-<div class="contact-links">
-  <a href="#">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/vincentbonet">GitHub</a>
-</div>
+<script>
+  const form = document.getElementById('contact-form');
+  const status = document.getElementById('status-message');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const data = {
+      name: form.name.value,
+      email: form.email.value,
+      message: form.message.value,
+    };
+
+    const res = await fetch('http://localhost:5000/send-email', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data),
+    });
+
+    const result = await res.json();
+    if (res.ok) {
+      status.textContent = result.success;
+      form.reset();
+    } else {
+      status.textContent = `Error: ${result.error}`;
+    }
+  });
+</script>

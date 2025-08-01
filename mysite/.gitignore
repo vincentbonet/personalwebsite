@@ -4,3 +4,10 @@ _site
 .jekyll-metadata
 vendor
 _config.yml
+Gemfile
+Gemfile.lock
+node_modules
+.sass-cache/
+server/config.py
+server/utils.py
+server/requirements.txt
