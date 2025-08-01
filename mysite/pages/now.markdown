@@ -10,4 +10,4 @@ Last updated: {{ site.time | date: "%B %Y" }}
 
 ## Creating 
 - This website 
-- Rust CLI tool to organize my files and notes. 
+- Rust CLI audio visualization tool, building on cava
